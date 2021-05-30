@@ -4,7 +4,7 @@ The main goal of the project is to improve the maintenance planning  by applying
 Observing engine's health and condition through sensors and data is assumed to facilitate this type of maintenance by predicting Time-To-Failure (TTF).
 
 ## Data:
-Aircraft text files contain engine run-to-failure data, included operational settings and 21 measurements from sensors.
+Jet engine text files contain engine run-to-failure data, included operational settings and 21 measurements from sensors.
 
 - Performance_train Data: The jet engine run-to-failure data.
 - Performance_test Data: The aircraft engine operating data without failure events recorded. 
